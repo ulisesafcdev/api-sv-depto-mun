@@ -1,0 +1,61 @@
+{
+  "departamentos" : 
+  [
+    {
+      "id": 1,
+      "departamento": "Ahuachapan"
+    },
+    {
+      "id": 2,
+      "departamento": "Cabanias"
+    },
+    {
+      "id": 3,
+      "departamento": "Chalatenango"
+    },
+    {
+      "id": 4,
+      "departamento": "Cuscatlan"
+    },
+    {
+      "id": 5,
+      "departamento": "La Libertad"
+    },
+    {
+      "id": 6,
+      "departamento": "Morazan"
+    },
+    {
+      "id": 7,
+      "departamento": "La Paz"
+    },
+    {
+      "id": 8,
+      "departamento": "Santa Ana"
+    },
+    {
+      "id": 9,
+      "departamento": "San Miguel"
+    },
+    {
+      "id": 10,
+      "departamento": "San Salvador"
+    },
+    {
+      "id": 11,
+      "departamento": "San Vicente"
+    },
+    {
+      "id": 12,
+      "departamento": "Sonsonate"
+    },
+    {
+      "id": 13,
+      "departamento": "La Union"
+    },
+    {
+      "id": 14,
+      "departamento": "Usulutan"
+    }
+  ]
+}

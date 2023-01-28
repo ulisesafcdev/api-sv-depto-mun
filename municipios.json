@@ -1,0 +1,290 @@
+{
+  "Ahuachapan": [
+    {
+      "id": 1,
+      "municipio": "Ahuachapan"
+    },
+    {
+      "id": 2,
+      "municipio": "Apaneca"
+    },
+    {
+      "id": 3,
+      "municipio": "Atiquizaya"
+    },
+    {
+      "id": 4,
+      "municipio": "Concepción de Ataco"
+    },
+    {
+      "id": 5,
+      "municipio": "El Refugio"
+    },
+    {
+      "id": 6,
+      "municipio": "Guaymango"
+    },
+    {
+      "id": 7,
+      "municipio": "Jujutla"
+    },
+    {
+      "id": 8,
+      "municipio": "San Francisco Menendez"
+    },
+    {
+      "id": 9,
+      "municipio": "San Lorenzo"
+    },
+    {
+      "id": 10,
+      "municipio": "San Pedro Puxtla"
+    },
+    {
+      "id": 11,
+      "municipio": "Tacuba"
+    },
+    {
+      "id": 12,
+      "municipio": "Turin"
+    }
+  ],
+  "Cabanias": [
+    {
+      "id": 1,
+      "municipio": "Sensuntepeque"
+    },
+    {
+      "id": 2,
+      "municipio": "Cinquera"
+    },
+    {
+      "id": 3,
+      "municipio": "Dolores"
+    },
+    {
+      "id": 4,
+      "municipio": "Guacotecti"
+    },
+    {
+      "id": 5,
+      "municipio": "Ilobasco"
+    },
+    {
+      "id": 6,
+      "municipio": "Jutiapa"
+    },
+    {
+      "id": 7,
+      "municipio": "San Isidro"
+    },
+    {
+      "id": 8,
+      "municipio": "Tejutepeque"
+    },
+    {
+      "id": 9,
+      "municipio": "Victoria"
+    }
+  ],
+  "Chalatenango": [
+    {
+      "id": 1,
+      "municipio": "Chalatenango"
+    },
+    {
+      "id": 2,
+      "municipio": "Agua Caliente"
+    },
+    {
+      "id": 3,
+      "municipio": "Arcatao"
+    },
+    {
+      "id": 4,
+      "municipio": "Azacualpa"
+    },
+    {
+      "id": 5,
+      "municipio": "Cancasque"
+    },
+    {
+      "id": 6,
+      "municipio": "Citala"
+    },
+    {
+      "id": 7,
+      "municipio": "Comalapa"
+    },
+    {
+      "id": 8,
+      "municipio": "Concepcion Quezaltepeque"
+    },
+    {
+      "id": 9,
+      "municipio": "Dulce Nombre de Maria"
+    },
+    {
+      "id": 10,
+      "municipio": "El Carrizal"
+    },
+    {
+      "id": 11,
+      "municipio": "El Paraiso"
+    },
+    {
+      "id": 12,
+      "municipio": "La Laguna"
+    },
+    {
+      "id": 13,
+      "municipio": "La Palma"
+    },
+    {
+      "id": 14,
+      "municipio": "La Reina"
+    },
+    {
+      "id": 15,
+      "municipio": "Las Flores"
+    },
+    {
+      "id": 16,
+      "municipio": "Las Vueltas"
+    },
+    {
+      "id": 17,
+      "municipio": "Nombre de Jesus"
+    },
+    {
+      "id": 18,
+      "municipio": "Nueva Concepcion"
+    },
+    {
+      "id": 19,
+      "municipio": "Nueva Trinidad"
+    },
+    {
+      "id": 20,
+      "municipio": "Ojos de Agua"
+    },
+    {
+      "id": 21,
+      "municipio": "Potonico"
+    },
+    {
+      "id": 22,
+      "municipio": "San Antonio de la Cruz"
+    },
+    {
+      "id": 23,
+      "municipio": "San Antonio Los Ranchos"
+    },
+    {
+      "id": 24,
+      "municipio": "San Fernando"
+    },
+    {
+      "id": 25,
+      "municipio": "San Francisco Lempa"
+    },
+    {
+      "id": 26,
+      "municipio": "San Francisco Morazan"
+    },
+    {
+      "id": 27,
+      "municipio": "San Ignacio"
+    },
+    {
+      "id": 28,
+      "municipio": "San Isidro Labrador"
+    },
+    {
+      "id": 29,
+      "municipio": "San Luis del Carmen"
+    },
+    {
+      "id": 30,
+      "municipio": "San Miguel de Mercedes"
+    },
+    {
+      "id": 31,
+      "municipio": "San Rafael"
+    },
+    {
+      "id": 32,
+      "municipio": "Santa Rita"
+    },
+    {
+      "id": 33,
+      "municipio": "Tejutla"
+    }
+  ],
+  "Cuscatlan": [
+    {
+      "id": 1,
+      "municipio": "Cojutepeque"
+    },
+    {
+      "id": 2,
+      "municipio": "Candelaria"
+    },
+    {
+      "id": 3,
+      "municipio": "El Carmen"
+    },
+    {
+      "id": 4,
+      "municipio": "El Rosario"
+    },
+    {
+      "id": 5,
+      "municipio": "Monte San Juan"
+    },
+    {
+      "id": 6,
+      "municipio": "Oratorio de Concepcion"
+    },
+    {
+      "id": 7,
+      "municipio": "San Bartolome Perulapia"
+    },
+    {
+      "id": 8,
+      "municipio": "San Cristobal"
+    },
+    {
+      "id": 9,
+      "municipio": "San Jose Guayabal"
+    },
+    {
+      "id": 10,
+      "municipio": "San Pedro Perulapan"
+    },
+    {
+      "id": 11,
+      "municipio": "San Rafel Cedros"
+    },
+    {
+      "id": 12,
+      "municipio": "San Ramon"
+    },
+    {
+      "id": 13,
+      "municipio": "Santa Cruz Analquito"
+    },
+    {
+      "id": 14,
+      "municipio": "Santa Cruz Michapa"
+    },
+    {
+      "id": 15,
+      "municipio": "Suchitoto"
+    },
+    {
+      "id": 16,
+      "municipio": "Tenancingo"
+    }
+  ]
+}
