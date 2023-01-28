@@ -1,0 +1,40 @@
+{
+  "sv-ca": [
+    {
+      "id": 1,
+      "municipio": "Sensuntepeque"
+    },
+    {
+      "id": 2,
+      "municipio": "Cinquera"
+    },
+    {
+      "id": 3,
+      "municipio": "Dolores"
+    },
+    {
+      "id": 4,
+      "municipio": "Guacotecti"
+    },
+    {
+      "id": 5,
+      "municipio": "Ilobasco"
+    },
+    {
+      "id": 6,
+      "municipio": "Jutiapa"
+    },
+    {
+      "id": 7,
+      "municipio": "San Isidro"
+    },
+    {
+      "id": 8,
+      "municipio": "Tejutepeque"
+    },
+    {
+      "id": 9,
+      "municipio": "Victoria"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "sv-ch": [
+    {
+      "id": 1,
+      "municipio": "Chalatenango"
+    },
+    {
+      "id": 2,
+      "municipio": "Agua Caliente"
+    },
+    {
+      "id": 3,
+      "municipio": "Arcatao"
+    },
+    {
+      "id": 4,
+      "municipio": "Azacualpa"
+    },
+    {
+      "id": 5,
+      "municipio": "Cancasque"
+    },
+    {
+      "id": 6,
+      "municipio": "Citala"
+    },
+    {
+      "id": 7,
+      "municipio": "Comalapa"
+    },
+    {
+      "id": 8,
+      "municipio": "Concepcion Quezaltepeque"
+    },
+    {
+      "id": 9,
+      "municipio": "Dulce Nombre de Maria"
+    },
+    {
+      "id": 10,
+      "municipio": "El Carrizal"
+    },
+    {
+      "id": 11,
+      "municipio": "El Paraiso"
+    },
+    {
+      "id": 12,
+      "municipio": "La Laguna"
+    },
+    {
+      "id": 13,
+      "municipio": "La Palma"
+    },
+    {
+      "id": 14,
+      "municipio": "La Reina"
+    },
+    {
+      "id": 15,
+      "municipio": "Las Flores"
+    },
+    {
+      "id": 16,
+      "municipio": "Las Vueltas"
+    },
+    {
+      "id": 17,
+      "municipio": "Nombre de Jesus"
+    },
+    {
+      "id": 18,
+      "municipio": "Nueva Concepcion"
+    },
+    {
+      "id": 19,
+      "municipio": "Nueva Trinidad"
+    },
+    {
+      "id": 20,
+      "municipio": "Ojos de Agua"
+    },
+    {
+      "id": 21,
+      "municipio": "Potonico"
+    },
+    {
+      "id": 22,
+      "municipio": "San Antonio de la Cruz"
+    },
+    {
+      "id": 23,
+      "municipio": "San Antonio Los Ranchos"
+    },
+    {
+      "id": 24,
+      "municipio": "San Fernando"
+    },
+    {
+      "id": 25,
+      "municipio": "San Francisco Lempa"
+    },
+    {
+      "id": 26,
+      "municipio": "San Francisco Morazan"
+    },
+    {
+      "id": 27,
+      "municipio": "San Ignacio"
+    },
+    {
+      "id": 28,
+      "municipio": "San Isidro Labrador"
+    },
+    {
+      "id": 29,
+      "municipio": "San Luis del Carmen"
+    },
+    {
+      "id": 30,
+      "municipio": "San Miguel de Mercedes"
+    },
+    {
+      "id": 31,
+      "municipio": "San Rafael"
+    },
+    {
+      "id": 32,
+      "municipio": "Santa Rita"
+    },
+    {
+      "id": 33,
+      "municipio": "Tejutla"
+    }
+  ]
+}

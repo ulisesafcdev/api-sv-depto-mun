@@ -1,0 +1,52 @@
+{
+  "sv-ah": [
+    {
+      "id": 1,
+      "municipio": "Ahuachapan"
+    },
+    {
+      "id": 2,
+      "municipio": "Apaneca"
+    },
+    {
+      "id": 3,
+      "municipio": "Atiquizaya"
+    },
+    {
+      "id": 4,
+      "municipio": "Concepción de Ataco"
+    },
+    {
+      "id": 5,
+      "municipio": "El Refugio"
+    },
+    {
+      "id": 6,
+      "municipio": "Guaymango"
+    },
+    {
+      "id": 7,
+      "municipio": "Jujutla"
+    },
+    {
+      "id": 8,
+      "municipio": "San Francisco Menendez"
+    },
+    {
+      "id": 9,
+      "municipio": "San Lorenzo"
+    },
+    {
+      "id": 10,
+      "municipio": "San Pedro Puxtla"
+    },
+    {
+      "id": 11,
+      "municipio": "Tacuba"
+    },
+    {
+      "id": 12,
+      "municipio": "Turin"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sv-cu": [
+    {
+      "id": 1,
+      "municipio": "Cojutepeque"
+    },
+    {
+      "id": 2,
+      "municipio": "Candelaria"
+    },
+    {
+      "id": 3,
+      "municipio": "El Carmen"
+    },
+    {
+      "id": 4,
+      "municipio": "El Rosario"
+    },
+    {
+      "id": 5,
+      "municipio": "Monte San Juan"
+    },
+    {
+      "id": 6,
+      "municipio": "Oratorio de Concepcion"
+    },
+    {
+      "id": 7,
+      "municipio": "San Bartolome Perulapia"
+    },
+    {
+      "id": 8,
+      "municipio": "San Cristobal"
+    },
+    {
+      "id": 9,
+      "municipio": "San Jose Guayabal"
+    },
+    {
+      "id": 10,
+      "municipio": "San Pedro Perulapan"
+    },
+    {
+      "id": 11,
+      "municipio": "San Rafel Cedros"
+    },
+    {
+      "id": 12,
+      "municipio": "San Ramon"
+    },
+    {
+      "id": 13,
+      "municipio": "Santa Cruz Analquito"
+    },
+    {
+      "id": 14,
+      "municipio": "Santa Cruz Michapa"
+    },
+    {
+      "id": 15,
+      "municipio": "Suchitoto"
+    },
+    {
+      "id": 16,
+      "municipio": "Tenancingo"
+    }
+  ]
+}

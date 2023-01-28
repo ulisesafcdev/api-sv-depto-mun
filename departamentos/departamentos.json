@@ -3,58 +3,72 @@
   [
     {
       "id": 1,
+      "codigo": "sv-ah",
       "departamento": "Ahuachapan"
     },
     {
       "id": 2,
+      "codigo": "sv-ca",
       "departamento": "Cabanias"
     },
     {
       "id": 3,
+      "codigo": "sv-ch",
       "departamento": "Chalatenango"
     },
     {
       "id": 4,
+      "codigo": "sv-cu",
       "departamento": "Cuscatlan"
     },
     {
       "id": 5,
+      "codigo": "sv-li",
       "departamento": "La Libertad"
     },
     {
       "id": 6,
+      "codigo": "sv-mo",
       "departamento": "Morazan"
     },
     {
       "id": 7,
+      "codigo": "sv-pa",
       "departamento": "La Paz"
     },
     {
       "id": 8,
+      "codigo": "sv-sa",
       "departamento": "Santa Ana"
     },
     {
       "id": 9,
+      "codigo": "sv-sm",
       "departamento": "San Miguel"
     },
     {
       "id": 10,
+      "codigo": "sv-ss",
       "departamento": "San Salvador"
     },
     {
       "id": 11,
+      "codigo": "sv-sv",
       "departamento": "San Vicente"
     },
     {
       "id": 12,
+      "codigo": "sv-so",
       "departamento": "Sonsonate"
     },
     {
       "id": 13,
+      "codigo": "sv-un",
       "departamento": "La Union"
     },
     {
       "id": 14,
+      "codigo": "sv-us",
       "departamento": "Usulutan"
     }
   ]
