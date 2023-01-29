@@ -1,0 +1,56 @@
+{
+	"Santa Ana": [
+		{
+			"id": 1,
+			"municipio": "Santa Ana"
+		},
+		{
+			"id": 2,
+			"municipio": "Candelaria de la Frontera"
+		},
+		{
+			"id": 3,
+			"municipio": "Chalchuapa"
+		},
+		{
+			"id": 4,
+			"municipio": "Coatepeque"
+		},
+		{
+			"id": 5,
+			"municipio": "El Congo"
+		},
+		{
+			"id": 6,
+			"municipio": "El Porvenir"
+		},
+		{
+			"id": 7,
+			"municipio": "Masahuat"
+		},
+		{
+			"id": 8,
+			"municipio": "Metapan"
+		},
+		{
+			"id": 9,
+			"municipio": "San Antonio Pajonal"
+		},
+		{
+			"id": 10,
+			"municipio": "San Sebastian Salitrillo"
+		},
+		{
+			"id": 11,
+			"municipio": "Santa Rosa Guachipilin"
+		},
+		{
+			"id": 12,
+			"municipio": "Santiago de la Frontera"
+		},
+		{
+			"id": 13,
+			"municipio": "Texistepeque"
+		}
+	]
+}

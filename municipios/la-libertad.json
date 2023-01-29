@@ -7,6 +7,86 @@
     {
       "id": 2,
       "municipio": "Antiguo Cuscatlan"
+    },
+    {
+      "id": 3,
+      "municipio": "Chiltiupan"
+    },
+    {
+      "id": 4,
+      "municipio": "Ciudad Arce"
+    },
+    {
+      "id": 5,
+      "municipio": "Colon"
+    },
+    {
+      "id": 6,
+      "municipio": "Comasagua"
+    },
+    {
+      "id": 7,
+      "municipio": "Huizucar"
+    },
+    {
+      "id": 8,
+      "municipio": "Jayaque"
+    },
+    {
+      "id": 9,
+      "municipio": "Jicalapa"
+    },
+    {
+      "id": 10,
+      "municipio": "La Libertad"
+    },
+    {
+      "id": 11,
+      "municipio": "Nuevo Cuscatlan"
+    },
+    {
+      "id": 12,
+      "municipio": "Quezaltepeque"
+    },
+    {
+      "id": 13,
+      "municipio": "San Juan Opico"
+    },
+    {
+      "id": 14,
+      "municipio": "Sacacoyo"
+    },
+    {
+      "id": 15,
+      "municipio": "San Jose Villanueva"
+    },
+    {
+      "id": 16,
+      "municipio": "San Matias"
+    },
+    {
+      "id": 17,
+      "municipio": "San Pablo Tacachico"
+    },
+    {
+      "id": 18,
+      "municipio": "Talnique"
+    },
+    {
+      "id": 19,
+      "municipio": "Tamanique"
+    },
+    {
+      "id": 20,
+      "municipio": "Teotepeque"
+    },
+    {
+      "id": 21,
+      "municipio": "Tepecoyo"
+    },
+    {
+      "id": 22,
+      "municipio": "Zaragoza"
     }
   ]
 }

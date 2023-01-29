@@ -1,0 +1,108 @@
+{
+	"Morazan": [
+		{
+			"id": 1,
+			"municipio": "San Francisco Gotera"
+		},
+		{
+			"id": 2,
+			"municipio": "Arambala"
+		},
+		{
+			"id": 3,
+			"municipio": "Cacaopera"
+		},
+		{
+			"id": 4,
+			"municipio": "Chilanga"
+		},
+		{
+			"id": 5,
+			"municipio": "Corinto"
+		},
+		{
+			"id": 6,
+			"municipio": "Delicias de Concepcion"
+		},
+		{
+			"id": 7,
+			"municipio": "El Divisadero"
+		},
+		{
+			"id": 8,
+			"municipio": "El Rosario"
+		},
+		{
+			"id": 9,
+			"municipio": "Gualococti"
+		},
+		{
+			"id": 10,
+			"municipio": "Guatajiagua"
+		},
+		{
+			"id": 11,
+			"municipio": "Joateca"
+		},
+		{
+			"id": 12,
+			"municipio": "Jocoaitique"
+		},
+		{
+			"id": 13,
+			"municipio": "Jocoro"
+		},
+		{
+			"id": 14,
+			"municipio": "Lolotiquillo"
+		},
+		{
+			"id": 15,
+			"municipio": "Meanguera"
+		},
+		{
+			"id": 16,
+			"municipio": "Osicala"
+		},
+		{
+			"id": 17,
+			"municipio": "Perquin"
+		},
+		{
+			"id": 18,
+			"municipio": "San Carlos"
+		},
+		{
+			"id": 19,
+			"municipio": "San Fernando"
+		},
+		{
+			"id": 20,
+			"municipio": "San Isidro"
+		},
+		{
+			"id": 21,
+			"municipio": "San Simon"
+		},
+		{
+			"id": 22,
+			"municipio": "Sensembra"
+		},
+		{
+			"id": 23,
+			"municipio": "Sociedad"
+		},
+		{
+			"id": 24,
+			"municipio": "Torola"
+		},
+		{
+			"id": 25,
+			"municipio": "Yamabal"
+		},
+		{
+			"id": 26,
+			"municipio": "Yoloaiquin"
+		}
+	]
+}

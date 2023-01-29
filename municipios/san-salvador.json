@@ -1,0 +1,80 @@
+{
+	"San Salvador": [
+		{
+			"id": 1,
+			"municipio": "San Salvador"
+		},
+		{
+			"id": 2,
+			"municipio": "Aguilares"
+		},
+		{
+			"id": 3,
+			"municipio": "Apopa"
+		},
+		{
+			"id": 4,
+			"municipio": "Ayutuxtepeque"
+		},
+		{
+			"id": 5,
+			"municipio": "Ciudad Delgado"
+		},
+		{
+			"id": 6,
+			"municipio": "Cuscatancingo"
+		},
+		{
+			"id": 7,
+			"municipio": "El Paisnal"
+		},
+		{
+			"id": 8,
+			"municipio": "Guazapa"
+		},
+		{
+			"id": 9,
+			"municipio": "Ilopango"
+		},
+		{
+			"id": 10,
+			"municipio": "Mejicanos"
+		},
+		{
+			"id": 11,
+			"municipio": "Nejapa"
+		},
+		{
+			"id": 12,
+			"municipio": "Panchimalco"
+		},
+		{
+			"id": 13,
+			"municipio": "Rosario de Mora"
+		},
+		{
+			"id": 13,
+			"municipio": "San Marcos"
+		},
+		{
+			"id": 14,
+			"municipio": "San Martin"
+		},
+		{
+			"id": 15,
+			"municipio": "Santiago Texacuangos"
+		},
+		{
+			"id": 16,
+			"municipio": "Santo Tomas"
+		},
+		{
+			"id": 17,
+			"municipio": "Soyapango"
+		},
+		{
+			"id": 18,
+			"municipio": "Tonacatepeque"
+		}
+	]
+}

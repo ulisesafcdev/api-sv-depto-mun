@@ -1,0 +1,92 @@
+{
+	"La Paz": [
+		{
+			"id": 1,
+			"municipio": "Zacatecoluca"
+		},
+		{
+			"id": 2,
+			"municipio": "Cuyultitan"
+		},
+		{
+			"id": 3,
+			"municipio": "El Rosario"
+		},
+		{
+			"id": 4,
+			"municipio": "Jerusalen"
+		},
+		{
+			"id": 5,
+			"municipio": "Mercedes La Ceiba"
+		},
+		{
+			"id": 6,
+			"municipio": "Olocuilta"
+		},
+		{
+			"id": 7,
+			"municipio": "Paraiso de Osorio"
+		},
+		{
+			"id": 8,
+			"municipio": "San Antonio Masahuat"
+		},
+		{
+			"id": 9,
+			"municipio": "San Emigdio"
+		},
+		{
+			"id": 10,
+			"municipio": "San Francisco Chinameca"
+		},
+		{
+			"id": 11,
+			"municipio": "San Pedro Masahuat"
+		},
+		{
+			"id": 12,
+			"municipio": "San Juan Nonualco"
+		},
+		{
+			"id": 13,
+			"municipio": "San Juan Talpa"
+		},
+		{
+			"id": 14,
+			"municipio": "San Juan Tepezontes"
+		},
+		{
+			"id": 15,
+			"municipio": "San Luis La Herradura"
+		},
+		{
+			"id": 16,
+			"municipio": "San Luis Talpa"
+		},
+		{
+			"id": 17,
+			"municipio": "San Miguel Tepezontes"
+		},
+		{
+			"id": 18,
+			"municipio": "San Pedro Nonualco"
+		},
+		{
+			"id": 19,
+			"municipio": "San Rafael Obrajuelo"
+		},
+		{
+			"id": 20,
+			"municipio": "Santa Maria Ostuma"
+		},
+		{
+			"id": 21,
+			"municipio": "Santiago Nonualco"
+		},
+		{
+			"id": 22,
+			"municipio": "Tapalhuaca"
+		}
+	]
+}

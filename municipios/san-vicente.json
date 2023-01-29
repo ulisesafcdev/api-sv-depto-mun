@@ -1,0 +1,56 @@
+{
+	"San Vicente": [
+		{
+			"id": 1,
+			"municipio": "San Vicente"
+		},
+		{
+			"id": 2,
+			"municipio": "Apastepeque"
+		},
+		{
+			"id": 3,
+			"municipio": "Guadalupe"
+		},
+		{
+			"id": 4,
+			"municipio": "San Cayetano Istepeque"
+		},
+		{
+			"id": 5,
+			"municipio": "San Esteban Catarina"
+		},
+		{
+			"id": 6,
+			"municipio": "San Ildefonso"
+		},
+		{
+			"id": 7,
+			"municipio": "San Lorenzo"
+		},
+		{
+			"id": 8,
+			"municipio": "San Sebastian"
+		},
+		{
+			"id": 9,
+			"municipio": "Santa Clara"
+		},
+		{
+			"id": 10,
+			"municipio": "Santo Domingo"
+		},
+		{
+			"id": 11,
+			"municipio": "Tecoluca"
+		},
+		{
+			"id": 12,
+			"municipio": "Tepetitan"
+		},
+		{
+			"id": 13,
+			"municipio": "Verapaz"
+		}
+	]
+}

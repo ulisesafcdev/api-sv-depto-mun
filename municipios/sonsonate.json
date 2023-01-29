@@ -1,0 +1,68 @@
+{
+	"Sonsonate": [
+		{
+			"id": 1,
+			"municipio": "Sonsonate"
+		},
+		{
+			"id": 2,
+			"municipio": "Acajutla"
+		},
+		{
+			"id": 3,
+			"municipio": "Armenia"
+		},
+		{
+			"id": 4,
+			"municipio": "Caluco"
+		},
+		{
+			"id": 5,
+			"municipio": "Cuisnahuat"
+		},
+		{
+			"id": 6,
+			"municipio": "Izalco"
+		},
+		{
+			"id": 7,
+			"municipio": "Juayua"
+		},
+		{
+			"id": 8,
+			"municipio": "Nahuizalco"
+		},
+		{
+			"id": 9,
+			"municipio": "Nahulingo"
+		},
+		{
+			"id": 10,
+			"municipio": "Salcoatitan"
+		},
+		{
+			"id": 11,
+			"municipio": "San Antonio del Monte"
+		},
+		{
+			"id": 12,
+			"municipio": "San Julian"
+		},
+		{
+			"id": 13,
+			"municipio": "Santa Catarina Masahuat"
+		},
+		{
+			"id": 14,
+			"municipio": "Santa Isabel Ishuatan"
+		},
+		{
+			"id": 15,
+			"municipio": "Santo Domingo de Guzman"
+		},
+		{
+			"id": 16,
+			"municipio": "Sonzacate"
+		}
+	]
+}

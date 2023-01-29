@@ -1,0 +1,96 @@
+{
+	"Usulutan": [
+		{
+			"id": 1,
+			"municipio": "Usulutan"
+		},
+		{
+			"id": 2,
+			"municipio": "Alegria"
+		},
+		{
+			"id": 3,
+			"municipio": "Berlin"
+		},
+		{
+			"id": 4,
+			"municipio": "California"
+		},
+		{
+			"id": 5,
+			"municipio": "Concepcion Batres"
+		},
+		{
+			"id": 6,
+			"municipio": "El Triunfo"
+		},
+		{
+			"id": 7,
+			"municipio": "Ereguayquin"
+		},
+		{
+			"id": 8,
+			"municipio": "Estanzuelas"
+		},
+		{
+			"id": 9,
+			"municipio": "Jiquilisco"
+		},
+		{
+			"id": 10,
+			"municipio": "Jucuapa"
+		},
+		{
+			"id": 11,
+			"municipio": "Jucuaran"
+		},
+		{
+			"id": 12,
+			"municipio": "Mercedes Umaña"
+		},
+		{
+			"id": 13,
+			"municipio": "Nueva Granada"
+		},
+		{
+			"id": 14,
+			"municipio": "Ozatlan"
+		},
+		{
+			"id": 15,
+			"municipio": "Puerto el Triunfo"
+		},
+		{
+			"id": 16,
+			"municipio": "San Agustin"
+		},
+		{
+			"id": 17,
+			"municipio": "San Buenaventura"
+		},
+		{
+			"id": 18,
+			"municipio": "San Dionisio"
+		},
+		{
+			"id": 19,
+			"municipio": "San Francisco Javier"
+		},
+		{
+			"id": 20,
+			"municipio": "Santa Elena"
+		},
+		{
+			"id": 21,
+			"municipio": "Santa Maria"
+		},
+		{
+			"id": 22,
+			"municipio": "Santiago de Maria"
+		},
+		{
+			"id": 23,
+			"municipio": "Tecapan"
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"La Union": [
+		{
+			"id": 1,
+			"municipio": "La Union"
+		},
+		{
+			"id": 2,
+			"municipio": "Anamoros"
+		},
+		{
+			"id": 3,
+			"municipio": "Bolivar"
+		},
+		{
+			"id": 4,
+			"municipio": "Concepcion de Oriente"
+		},
+		{
+			"id": 5,
+			"municipio": "Conchagua"
+		},
+		{
+			"id": 6,
+			"municipio": "El Carmen"
+		},
+		{
+			"id": 7,
+			"municipio": "El Sauce"
+		},
+		{
+			"id": 8,
+			"municipio": "Intipuca"
+		},
+		{
+			"id": 9,
+			"municipio": "Lislique"
+		},
+		{
+			"id": 10,
+			"municipio": "Meanguera del Golfo"
+		},
+		{
+			"id": 11,
+			"municipio": "Nueva Esparta"
+		},
+		{
+			"id": 12,
+			"municipio": "Pasaquina"
+		},
+		{
+			"id": 13,
+			"municipio": "Poloros"
+		},
+		{
+			"id": 14,
+			"municipio": "San Alejo"
+		},
+		{
+			"id": 15,
+			"municipio": "San Jose"
+		},
+		{
+			"id": 16,
+			"municipio": "Santa Rosa de Lima"
+		},
+		{
+			"id": 17,
+			"municipio": "Yayantique"
+		},
+		{
+			"id": 18,
+			"municipio": "Yucuaiquin"
+		}
+	]
+}
